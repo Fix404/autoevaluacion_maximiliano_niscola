@@ -2,6 +2,7 @@
   "name": "autoevaluacion_maximiliano_niscola",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +17,8 @@
     "url": "https://github.com/Fix404/autoevaluacion_maximiliano_niscola/issues"
   },
   "homepage": "https://github.com/Fix404/autoevaluacion_maximiliano_niscola#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
 }
