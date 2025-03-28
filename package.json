@@ -1,0 +1,20 @@
+{
+  "name": "autoevaluacion_maximiliano_niscola",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fix404/autoevaluacion_maximiliano_niscola.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fix404/autoevaluacion_maximiliano_niscola/issues"
+  },
+  "homepage": "https://github.com/Fix404/autoevaluacion_maximiliano_niscola#readme",
+  "description": ""
+}
